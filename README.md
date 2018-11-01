@@ -3,7 +3,7 @@
 Homework-1 -Building a Wireframe
 ___
 
-## This application shows a basic wireframe that has following has been developed using HTML and CSS
+## This application shows a basic wireframe that has been developed using basic HTML and CSS
 
 ### Following html elements have been used to build the basic structure -
 * header
